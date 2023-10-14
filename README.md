@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on React-based projects, open-source initiatives, and opportunities to build responsive, user-friendly web applications.
 
 📫 How to reach me:
-  - Email: your.email@example.com
+  - Email: parasharharshit99@gmail.com
   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
   - GitHub: [Your GitHub Profile](www.linkedin.com/in/harshit-parashar-850649180)
 
