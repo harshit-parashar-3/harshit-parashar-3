@@ -8,8 +8,7 @@
 
 📫 How to reach me:
   - Email: parasharharshit99@gmail.com
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-  - GitHub: [Your GitHub Profile](www.linkedin.com/in/harshit-parashar-850649180)
+  - LinkedIn: www.linkedin.com/in/harshit-parashar-850649180
 
 
 <!---
