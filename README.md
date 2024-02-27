@@ -13,7 +13,6 @@ I am a passionate React Developer, and I love creating dynamic web applications.
 - React.js
 - Redux
 - HTML5 / CSS3 / JavaScript
-- [Add any other relevant technologies/tools]
 
 ## 🤝 Let's Collaborate!
 
